@@ -1,7 +1,10 @@
 # ConnectFour-Game
 Connect Four game created in python using the Tkinter module
 
-* no AI(yet)
+- simple AI
+  - no minmax
+  - will take the winning move
+  - will prevent you from winning next turn
 
 
 ![Start_screen](fwins/001.jpg "Start_screen")
