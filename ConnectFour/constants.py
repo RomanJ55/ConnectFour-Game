@@ -1,0 +1,5 @@
+MARGIN = 80
+CELL_WIDTH = 100
+
+LIGHTRED = "#ff9999"
+LIGHTBLUE = "#b3b3ff"
