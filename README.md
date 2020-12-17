@@ -1,5 +1,5 @@
 # ConnectFour-Game
-Connect Four game created in python using the Tkinter module
+Connect Four game created in python
 
 
 - simple AI(comment out lines 88-90 in ui.py for 2 Player mode)
