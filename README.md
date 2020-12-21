@@ -6,6 +6,7 @@ Connect Four game created in python
   - will take the winning move
   - will prevent the player from winning next turn
 
+https://romanj55.github.io/ConnectFour-Game/
 
 ![Start_screen](fwins/001.jpg "Start_screen")
 ![Main_screen](fwins/002.jpg "Main_screen")
